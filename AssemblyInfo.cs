@@ -17,3 +17,5 @@ using System.Security.Permissions;
 [assembly: AssemblyKeyFile("")]
 [assembly: AssemblyVersion("2.7.1406.0")]
 [assembly: SecurityPermission(SecurityAction.RequestMinimum, SkipVerification = true)]
+
+// check git
